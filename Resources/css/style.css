@@ -5,3 +5,9 @@
 body {
   background-color: #bee893;
 }
+
+.navbarlist {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
